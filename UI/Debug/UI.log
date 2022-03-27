@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Николай\source\repos\UI\UI\CustomTexture.h(38,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Николай\source\repos\UI\UI\ButtonFunc.h(381,20): warning C4244: инициализация: преобразование "double" в "Uint32", возможна потеря данных
+C:\Users\Николай\source\repos\UI\UI\UI.h(383): warning C4172: возвращение адреса локальной или временной переменной : new_button
+  UI.vcxproj -> C:\Users\Николай\source\repos\UI\Debug\UI.exe
